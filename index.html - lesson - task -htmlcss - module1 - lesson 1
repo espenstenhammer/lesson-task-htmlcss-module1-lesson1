@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+
+<meta name="decription" content="This is a website for a company called "Guitar Kings" />
+<meta name="wievport" content="with=device-with", initial-scale="1,0" />
+<title>Guitar Kings - Home.</title>
+</head>
+<body>
+<header>
+    
+    <a href="index.html">Guitar Kings</a>
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="#">Guitars</a></li>
+<li><a href="#">Contact</a></li>
+</ul>
+</nav>
+<section>
+
+    <h1>Authentic Handmade Guitars</h1>
+    <a href="#">View Guitars</a>
+</section>
+</header>
+<main>  
+    <section>
+        <div>
+            <h2>Our guitars are</h2>
+            <ul>
+            <li>Made with real Pennysylvanian wood</li>
+            <li>Crafted by family - run business</li>
+            <li>Built to last a lifetime</li>
+            <li>Beautiful unique sound</li>
+            <li>Options for all music lovers</li>
+        </ul>
+    </div>
+    <img src="#" alt="Hand strumming guitars" />
+
+    </section> 
+
+
+
+<section>
+
+
+    <h2>Rewiews</h2>
+    <div>
+        <p>"Best guitars ever, good quality, perfect in the studio and live" - Bob Willis</p>
+        <p>Profile picture of Bob Willis</p>
+        <img src="#" alt="Bob Willis">
+
+    </div>
+    <div>
+        <p>"Love the sound of the fantastic guitar fro Guitar Kings. Handmade luxury. Perfect for me". - Sally Oldfield</p>
+    
+        <p>Profile picture of Sally Oldfield.</p>
+        <img src="#" alt="Sally Oldfield">
+
+    </div>
+    </section>
+
+<section>
+    <h2>Wiew our guitars</h2>
+    <div>
+    <img src="#" alt="Adirondack Red" />
+    <h3>Adirondack Red</h3> 
+    <p>$500</p>
+    <a href="#">View</a>
+   
+</div>
+<div>
+    <img src="#" alt="Adirondack Red" />
+    <h3>Adirondack Red</h3> Red />
+    <p>$350</p>
+    <a href="#">On sale</a>
+   
+</div>
+<div>
+    <img src="#" alt="Adirondack Red" />
+    <h3>Adirondack Red</h3> Red 
+    <p>$500</p>
+    <a href="#">View</a>
+   
+</div>
+<div>
+    <img src="#" alt="Adirondack Red" />
+    <h3>Adirondack Red</h3> Red
+    <p>$500</p>
+    <a href="#">View</a>
+   
+</div>
+
+</section>
+<br>
+<footer>
+    Copyright Guitar Kings &copy;
+
+</footer>
+</main>
+    </body>
+</html>
