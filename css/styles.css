@@ -1,12 +1,8 @@
-header {
-    background-color: #040404; 
-    color: #ffffff;
-   }
-  
-   header a 
-   …
-     <element color>
-       …
-         <element id="fff">
- 
+<header>
+  …
+    <element background-color: #202020;>
+]
+ header a [
+     color: #fff;
+ ]
 
