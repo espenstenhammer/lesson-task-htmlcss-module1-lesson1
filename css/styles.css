@@ -2,5 +2,11 @@ header {
     background-color: #040404; 
     color: #ffffff;
    }
-  header a [color #fff]
-}
+  
+   header a 
+   …
+     <element color>
+       …
+         <element id="fff">
+ 
+
