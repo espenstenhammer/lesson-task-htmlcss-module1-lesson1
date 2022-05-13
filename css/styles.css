@@ -6,3 +6,7 @@ header {
 header a{ 
 color: #ffffff;
 } 
+
+.cta-button {
+background-color: #bb0000;
+}
