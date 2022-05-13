@@ -1,2 +1,3 @@
-header [ background-color: #202020;
-]
+::-webkit-validation-bubble-heading {
+    background-color: #202020;
+}
