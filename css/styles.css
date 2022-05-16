@@ -1,6 +1,8 @@
-header {
-    background-color: black;
-  color: #ffffff;  
+header, footer {
+  
+  background-color: black;
+  color: #ffffff; 
+  color: #ffffff; 
 } 
 
 header a{ 
@@ -10,6 +12,7 @@ color: #ffffff;
 .cta-button {
 background-color: #bb0000;
 color: #ffffff;
+font-size: 1.5em;
 }
 
  .reviews {
@@ -18,4 +21,13 @@ background-color: #e8e8e8;
 
  .featured--products {
    background-color: #fbfbfb;
+ }
+
+ .cta-sale {
+   background-color: #1273300;
+ } 
+
+ footer {
+
+  text-align: center;
  }
