@@ -2,12 +2,18 @@
   font-family: Boots And Spurs;
   src: url(../fonts/BootsAndSpurs.ttf) format("truetype");
 }
+
+body {
+  font-family: "Roboto";
+}
 h1,
 h2,
 .logo {
   font-family: "Boots And Spurs", "Tahoma", "Verdana";
 }
-
+.product-list h2 {
+  font-family: Verdana;
+}
 
 header, 
 footer {
