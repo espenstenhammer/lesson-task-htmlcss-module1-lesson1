@@ -1,4 +1,13 @@
- header, footer {
+@font-face {
+font-family: "Boots And Spurs";
+src: url(../fonts/BootsAndSpurs.ttf);
+
+}
+
+
+
+
+header, footer {
   
   background-color: black;
   color: #ffffff; 
@@ -8,15 +17,7 @@
 
 
 
-@font-face {
-  font-family: myFirstFont;
-  src: url(../fonts/BootsAndSpurs.ttf);
-}
 
-h2 {
-  font-family: myFirstFont;
-  color: #000000;
-}
 
 header a{ 
 color: #ffffff;
