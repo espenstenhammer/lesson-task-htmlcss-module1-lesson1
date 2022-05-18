@@ -5,14 +5,14 @@
   color: #ffffff; 
   
 } 
-font-face {
-  font-family: sans-serif;
-  src: ../BootsAndSpurs.ttf;
+@font-face {
+  font-family: myFirstFont;
+  src: url(BootsAndSpurs.ttf);
 }
 
 h2 {
   font-family: myFirstFont;
-  color: #060606;
+  color: darkgreen;
 }
 header a{ 
 color: #ffffff;
