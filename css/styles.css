@@ -6,13 +6,13 @@
   
 } 
 font-face {
-  font-family: myFirstFont;
-  src: url(ArianaVioleta-dz2K.ttf);
+  font-family: sans-serif;
+  src: url(BootsAndSpurs.ttf);
 }
 
 h2 {
   font-family: myFirstFont;
-  color: darkgreen;
+  color: #060606;
 }
 header a{ 
 color: #ffffff;
