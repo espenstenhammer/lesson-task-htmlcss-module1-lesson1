@@ -7,7 +7,7 @@
 } 
 font-face {
   font-family: sans-serif;
-  src: url(BootsAndSpurs.ttf);
+  src: (../BootsAndSpurs.ttf);
 }
 
 h2 {
