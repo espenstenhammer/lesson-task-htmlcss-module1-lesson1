@@ -1,9 +1,12 @@
 @font-face {
 font-family: "Boots And Spurs";
-src: url(../fonts/BootsAndSpurs.ttf);
+src: url(../fonts/BootsAndSpurs.ttf); format("truetype");
 
 }
+h1 {
 
+  font-family: "Boots And Spurs";
+}
 
 
 
