@@ -3,7 +3,7 @@ font-family: "Boots And Spurs";
 src: url(../fonts/BootsAndSpurs.ttf); format("truetype");
 
 }
-h1 {
+h1, .logo {
 
   font-family: "Boots And Spurs" 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
