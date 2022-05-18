@@ -1,18 +1,16 @@
 @font-face {
-font-family: "Boots And Spurs";
-src: url(../fonts/BootsAndSpurs.ttf) format("truetype");
-
+  font-family: Boots And Spurs;
+  src: url(../fonts/BootsAndSpurs.ttf) format("truetype");
 }
 h1,
-h2
+h2,
 .logo {
-
-  font-family: "Boots And Spurs" ;
+  font-family: "Boots And Spurs", "Tahoma", "Verdana";
 }
 
 
-
-header, footer {
+header, 
+footer {
   
   background-color: black;
   color: #ffffff; 
