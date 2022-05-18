@@ -6,14 +6,16 @@
   
 } 
 
-header {
+
+
 @font-face {
   font-family: myFirstFont;
   src: url(../fonts/BootsAndSpurs.ttf);
 }
+
 h2 {
   font-family: myFirstFont;
-  color: darkgreen;
+  color: #000000;
 }
 
 header a{ 
