@@ -3,11 +3,21 @@
   background-color: black;
   color: #ffffff; 
   color: #ffffff; 
+  
 } 
+font-face {
+  font-family: myFirstFont;
+  src: url(ArianaVioleta-dz2K.ttf);
+}
 
+h2 {
+  font-family: myFirstFont;
+  color: darkgreen;
+}
 header a{ 
 color: #ffffff;
 } 
+
 
 .cta {
 background-color: #bb0000;
