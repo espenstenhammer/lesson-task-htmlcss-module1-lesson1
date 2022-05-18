@@ -3,7 +3,9 @@ font-family: "Boots And Spurs";
 src: url(../fonts/BootsAndSpurs.ttf); format("truetype");
 
 }
-h1, .logo {
+h1,
+h2
+ .logo {
 
   font-family: "Boots And Spurs" 
 }
